@@ -1,0 +1,11 @@
+# Comparación
+
+| Punto | ChatGPT | Gemini | Deepseek |
+|---|---|---|---|
+| **Tipo de IA que recomendó** | IA generativa | IA generativa | IA generativa |
+| **Datos que dijo que se necesitan** | Ejemplos tanto de mensajes mal ejecutados como de mensajes que serían ideales para que los ingenieros los implementen | Registros de conversaciones pasadas y estilos de lenguaje de otras áreas | Historial de conversaciones anteriores que fracasaron, pero con correcciones para saber qué sí hacer |
+| **Riesgo ético que mencionó** | Que se exponga información personal de los trabajadores al momento de analizar las conversaciones | Que no se respete la privacidad de los trabajadores y se filtre información personal | Exponer información confidencial de la empresa que comprometa a clientes o contactos |
+| **Primer paso que propuso** | Tomar 10 ejemplos de comunicaciones reales y hacer un prompt con IA donde se hagan de nuevo para que sus compañeros entiendan y se mida el tiempo ahorrado | Que los ingenieros usen un prompt para pedirle a la IA que desarrolle la idea de manera que sus compañeros puedan entenderla | Que entre ingenieros y trabajadores de otras áreas se lleven registros de todos los malentendidos o faltas de comunicación durante la semana, para después trabajarlos |
+| **¿Respetó la estructura de 4 puntos? (sí/no)** | Sí | Sí | Sí |
+| **¿Respetó el límite de 250 palabras? (Cuenta aproximada)** | Sí, usó exactamente 220 palabras | No, se excedió, ya que fueron 254 palabras | Sí, fue más resumido, usando 158 palabras |
+| **Algo que dijo y que tú sabes que es incorrecto o dudoso** | Sí, que propone pasarle la información a una IA para que genere un prompt, pero considero que eso es arriesgado porque compromete la seguridad de la empresa al darle todos esos datos confidenciales, ya que dichos datos pueden ser robados con mayor facilidad | Sí, detecto el mismo problema que en la IA anterior | Al proponer pasarle la información a una IA para que genere un prompt, es arriesgado, puesto que ahí se vería comprometida la seguridad de la empresa al darle todos esos datos confidenciales, provocando que dichos datos puedan ser robados con mayor facilidad. Aquí observo menos riesgo; sin embargo, considero que usar registros pasados también podría comprometer la seguridad de la empresa |
