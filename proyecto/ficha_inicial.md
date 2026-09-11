@@ -2,36 +2,35 @@
 
 ## Problema
 
-{Los sistemas trabajan de manera independiente, lo cual retrasa la identificación de los incidentes y localización de los afectados por estos mismos, esto ocurre con residentes, oficinistas, Staff etc. cerca del 24% de todos los siniestros de fuego a nivel global causan más del 82% de las muertes en el mundo}
+{Hoy en día, los sistemas contra incendios convencionales no son lo suficientemente efectivos para los edificios actuales, ya que suelen generar confusiones, perder a las personas y empeorar las cosas en momentos críticos. Los cual genera perdidas tanto materiales como vidas humanas. En los últimos 10 años, 6 mil personas han muerto a causa de dichos incendios en eficicios y casa habitación. Afectando a familias, trabajadores, empresarios entre otros}
 
 ## Contexto
-
-{Edificios,Varía según el terreno y construcción, alarmas anti incendios}
+{Le ocurre principalmente a edificios, el tamaño o intensidad de dichos incendios varia según el material del establecimiento, el origen del acontecimiento o el tiempo que se tarda en tratar la situación, actualmente se cuenta con  alarmas anti incendios, extintores, detectores de humo, etc.}
 
 ## Usuarios afectados
 
-{Residentes,Oficinistas,Staff,Concurrentes etc.}
+{Familias, oficinistas, empresarios/dueños, clientes, bomberos, etc.}
 
 ## Tipo de IA propuesto
 
-{Agente IA, Bajo supervisión humana. El agente detectaría humo usando sensores, Analizaría la reacción de las personas usando el CCTV para encontrar la mejor reacción y con la supervisión humana ejecutar y registrar la validez del reporte}
+{Se propone IA predictiva + cámaras térmicas y con sensores. Las cámaras detectarían humo o rutinas de los residentes para analizar notar alguna anomalía con ayuda de la IA, también analiza patrones usando los sensores. También se recomienda supervición de humanos o un aisitente de IA que filtre los reportes reales de incendios y las falsas alarmas.}
 
 ## Qué dijeron los modelos
 
 {COINCIDIERON: 
-Agente IA Híbrido - ChatGPT & Gemini 
-Analizar entornos - ChatGPT, Gemini & DeepSeek
-Medidas de evacuación - Gemini & DeepSeek
+Evacuación inteligente: ChatGPT y Deepseek
+Visión por computadora: Gemini y Deepseek
+Mapeo de la zona: Gemini y Deepseek
 
 NO COINCIDIERON: 
-IA Predictiva - DeepSeek
-Ejecutar y Registrar - ChatGPT
-Ocupación por Hora - DeepSeek} 
+Inteligencia Artificial Multimodal en Tiempo Real: Gemini
+Rutas de evacuación dinámicas: Gemini
+IA para detección de patrones: ChatGPT} 
 
 ## Primer riesgo identificado
 
-{vigilancia permanente de ocupantes (ubicación, horarios, comportamientos) puede derivar en discriminación o control laboral}
+{Invación a la privacidad de las personas, falta de habilidad de la IA para detectar un incendio, demasiadas falsas alarmas.}
 
 ## Qué NO va a hacer la solución
 
-{NO es Anti Colapsos}
+{No en una solución anti desastres naturales, robos y NO apagará el fuego directamente.}
