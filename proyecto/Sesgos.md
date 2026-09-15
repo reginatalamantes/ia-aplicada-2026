@@ -1,4 +1,3 @@
-```markdown
 # Análisis de Sesgos: Sistema de IA e IoT para Detección y Prevención de Incendios en Edificios Inteligentes
 
 | Tipo de Sesgo | Origen | Impacto |
@@ -10,4 +9,3 @@
 | **Sesgo de Aprendizaje** | Deficiencias en las funciones de pérdida o sobreajuste (overfitting) del modelo | Si la red CNN se entrena para evitar a toda costa los falsos negativos, la IA aprenderá a clasificar cualquier elemento brillante o difuso como fuego. Del mismo modo, el algoritmo puede aprender atajos visuales (asociar solo color naranja/rojo con fuego) sin ponderar patrones físicos como la turbulencia del humo |
 | **Sesgo de Evaluación** | Pruebas de rendimiento ejecutadas en entornos ideales o simulaciones en gemelos digitales | El sistema puede obtener una precisión excelente en laboratorio pero fallar en escenarios reales de mala visibilidad, lentes de cámara cubiertos de hollín o fallos de energía redundante |
 | **Sesgo de Despliegue** | Discrepancia entre las condiciones en las que se diseñó la IA y el entorno operativo real | La IA asume conectividad constante a la nube y mantenimiento especializado. En un despliegue real con caídas de red, latencia en la infraestructura IoT o ciberataques, la toma de decisiones automatizada (como el control de ventilación HVAC o el bloqueo de accesos) puede actuar erróneamente o dejar de responder |
-```
