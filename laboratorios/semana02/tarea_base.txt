@@ -1,4 +1,5 @@
-# Tarea base
+Tarea base 1:
+Una persona reportó a su banco un robo de datos y dinero por seguir un enlace que le enviaron a su correo a nombre del departamento de ciberseguridad del banco. Redacta en 100 palabras la evaluación inmediata del riesgo de la situación y los primeros pasos a seguir.   
 
-Prompt:
-Una persona reportó a su banco un robo de datos por seguir un enlace que le enviaron a su correo a nombre del banco. Redacta en 120 palabras la evaluación inmediata del riesgo de la situación y los primeros pasos a seguir.   
+Tarea base 2:
+Una persona reportó que descargó un archivo adjunto desde un correo de un supuesto proveedor y ahora los archivos de su computadora están encriptados con una nota que exige un pago. Redacta en 100 palabras la evaluación inmediata del riesgo de la situación y los primeros pasos a seguir. 
