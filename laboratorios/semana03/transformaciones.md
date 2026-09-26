@@ -40,4 +40,3 @@
 ,38,Leonardo Soto,leonardo.soto@correo.com,5512345628,2026-09-05,14:50,Sala de servidores,Soporte TI Gamma,Mantenimiento
 ,39,Marina Chávez,marina.chavez@correo.com,5512345629,2026-09-06,9:05,Obra norte,Constructora Alfa,Supervisión
 ,40,Óscar Villalobos,oscar.villalobos@correo.com,5512345630,2026-09-07,10:40,Obra sur,Constructora Alfa,Supervisión
-
