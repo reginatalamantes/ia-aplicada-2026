@@ -42,3 +42,16 @@
 | 38 | Leonardo Soto | leonardo.soto@correo.com | 5512345628 | 2026-09-05 | 14:50 | Sala de servidores | Soporte TI Gamma | Mantenimiento |
 | 39 | Marina Chávez | marina.chavez@correo.com | 5512345629 | 2026-09-06 | 9:05 | Obra norte | Constructora Alfa | Supervisión |
 | 40 | Óscar Villalobos | oscar.villalobos@correo.com | 5512345630 | 2026-09-07 | 10:40 | Obra sur | Constructora Alfa | Supervisión |
+
+# accesos anonimizado
+| Columna | Tipo de dato | ¿Identifica a una persona? | Sensibilidad | ¿Sirve para el análisis de patrones de acceso? |
+|---|---|---|---|---|
+| id | número | No | Baja | Sí, ya que el ID hace una manera de identificar a la persona. Se puede identificar más fácil su acceso a la red. |
+| nombre | texto | Directo | Alta | Sí, es una manera de identificar directamente a la persona que ingresó a la red. Además es un dato de contacto, lo cual puede facilitar la identificación. |
+| correo | texto | Directo | Alta | Sí, es un dato de contacto con el que se puede ingresar a la red; sin embargo, es probable que se identifique más fácil por el ID que por el correo electrónico. |
+| telefono | número | Directo | Alta | No, puesto que no es uno de los datos que se requieren al momento de entrar a la red, sino algo más como un identificador de identidad, como lo es el ID. |
+| fecha_acceso | fecha | Indirecto | Media | Sí, es una manera de reducir el nicho solo a las personas que ingresaron a la red ese día. |
+| hora_entrada | hora | Indirecto | Media | Sí, esto delimita a que se identifiquen solamente personas en esa hora o en ese rango de horas, aunque sería mucho más fácil identificar si se combina con el día. |
+| area | categoría | Indirecto | Media | Sí, es importante porque es fácil identificar a una persona por el área, ya que si accede a la red para una actividad en específico se puede relacionar con el área. Además, con el área también se puede delimitar dónde ocurrió el acceso. |
+| empresa | categoría | Indirecto | Media | Sí, esto ayuda a poder identificar a nivel organizacional el comportamiento de la empresa o, en dado caso, de los empleados, pues así se puede saber si alguien entra o no en el horario indicado. |
+| motivo | categoría | No | Baja | Sí, ayuda a saber si el motivo de la entrada coincide con el contexto, ya sea la hora o el lugar en el que ocurre dicho motivo. |
