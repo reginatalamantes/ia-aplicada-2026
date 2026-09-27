@@ -1,4 +1,3 @@
-[accesos_crudo.md](https://github.com/user-attachments/files/32696135/accesos_crudo.md)
 # Accesos crudo
 
 | id | nombre | correo | telefono | fecha_acceso | hora_entrada | area | empresa | motivo |
