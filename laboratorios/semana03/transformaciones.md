@@ -1,6 +1,6 @@
-# Transformaciones — Semana 3
+# Transformaciones
 
-## 1. Tabla de transformaciones (Paso 5.1)
+## 1. Tabla de transformaciones
 
 | Columna original | Qué le hicimos | Técnica | Por qué |
 |---|---|---|---|
@@ -13,8 +13,6 @@
 | area | Se conserva tal cual | Conservación | Necesaria para el análisis de patrones; por sí sola no identifica a nadie |
 | motivo | Se conserva tal cual | Conservación | Necesaria para el análisis de patrones; por sí sola no identifica a nadie |
 | id | Se conserva tal cual | Conservación | Solo es una llave interna de fila, no identifica a la persona |
-
-**Nota sobre correo_enmascarado:** se construyó como ejercicio (primer carácter + asteriscos + dominio), pero se decidió no incluirla en el archivo final, ya que el análisis de patrones de acceso no requiere ningún dato de contacto, ni siquiera parcial. Mantenerla aumentaría el riesgo de exposición sin aportar valor al análisis.
 
 ---
 
@@ -63,3 +61,5 @@
 | area | categoría | Indirecto | Media | Sí, indica dónde ocurrió el acceso |
 | empresa | categoría | Indirecto | Media | Sí, da contexto organizacional al patrón |
 | motivo | categoría | No | Baja | Sí, ayuda a validar coherencia del acceso |
+
+**Se usó IA para crear el Markdown**
