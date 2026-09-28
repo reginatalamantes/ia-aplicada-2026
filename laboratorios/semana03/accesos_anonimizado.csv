@@ -1,0 +1,38 @@
+id,id_persona,semana,franja,area,tipo_empresa,motivo
+1,P001,32,Mañana,Obra norte,Constructora,Supervisión
+2,P002,32,Mañana,obra norte,Constructora,supervision
+3,P003,32,Mañana,Oficina central,Diseño,Entrega de planos
+4,P001,32,Noche,Sala de servidores,Soporte TI,Mantenimiento
+5,P004,32,Mañana,Oficina central,,Entrevista
+6,P005,52,,Obra sur,Constructora,Supervisión
+7,P006,32,Mañana,Oficina central,Diseño,Entrega de planos
+8,P003,32,Madrugada,Sala de servidores,Soporte TI,Mantenimiento
+9,P008,32,Tarde,Obra norte,Constructora,Visita cliente
+10,P009,32,Mañana,Obra sur,Constructora,Supervisión
+11,P010,32,Mañana,Oficina central,Diseño,Entrega de planos
+12,P011,32,Mañana,Sala de servidores,Soporte TI,Mantenimiento
+13,P012,32,Tarde,Obra norte,Constructora,Visita cliente
+14,P013,33,Tarde,Obra sur,Constructora,Supervisión
+15,P014,52,,Oficina central,Diseño,Entrevista
+16,P015,33,Tarde,Sala de servidores,Soporte TI,Mantenimiento
+17,P016,33,Mañana,Obra norte,Constructora,Supervisión
+18,P017,33,Mañana,Obra sur,Constructora,Supervisión
+19,P018,33,Mañana,Oficina central,Diseño,Entrega de planos
+20,P019,33,Tarde,Sala de servidores,Soporte TI,Mantenimiento
+21,P020,33,Mañana,Obra norte,Constructora,Visita cliente
+22,P021,33,Mañana,obra norte,Constructora,Supervisión
+23,P022,33,Mañana,OFICINA CENTRAL,Diseño,Entrevista
+24,P023,33,Tarde,sala de Servidores,Soporte TI,Mantenimiento
+25,P024,33,Mañana,Obra sur,,Supervisión
+26,P025,33,Mañana,Oficina central,Diseño,Entrega de planos
+27,P026,34,Mañana,Sala de servidores,,Mantenimiento
+28,P027,34,Madrugada,Obra norte,Constructora,Visita cliente
+29,P028,34,Noche,Obra sur,Constructora,Supervisión
+30,P011,36,Madrugada,Sala de servidores,Soporte TI,Mantenimiento
+31,P029,36,Mañana,Oficina central,Diseño,Entrevista
+32,P030,36,Mañana,Obra norte,Constructora,Supervisión
+33,P031,36,Mañana,Obra sur,Constructora,Visita cliente
+34,P032,36,Tarde,Oficina central,Diseño,Entrega de planos
+35,P018,36,Tarde,Sala de servidores,Soporte TI,Mantenimiento
+36,P033,37,Mañana,Obra norte,Constructora,Supervisión
+37,P034,37,Mañana,Obra sur,Constructora,Supervisión
