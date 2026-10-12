@@ -18,7 +18,8 @@ Es una barrera de seguridad que filtra el tráfico de red para prevenir accesos 
 ","Cambia las palabras un poco, peor el significado es el mismo",
 ,1.5,3,"Es una barra de seguridad que filtra el tráfico de red para prevenir accesos no autorizados.
 ","Este es más similar al primero, pero no identico",
-,,,,,
+
+
 ,TABLA INGLÉS CONTRA ESPAÑOL DE LA PARTE 1.2 ,,,,
 ,Texto,Idioma,Caracteres,Tokens,Caracteres por token
 ,Frase corta,Español (con tilde),40,8,5
@@ -26,7 +27,8 @@ Es una barrera de seguridad que filtra el tráfico de red para prevenir accesos 
 ,Frase corta,Inglés,30,5,6
 ,Párrafo de 100 palabras,Español,775,134,5.78
 ,Párrafo de 100 palabras,Inglés,810,110,7.36
-,,,,,
+
+
 ,TABLA SATURA EL CONTEXTO DE LA PARTE 3.3,,,,
 ,Intento,Copias del documento,Tokens aproximados,Respuesta del modelo,¿Correcta?
 ,1,1,"2,783 tokens",AZUL-7342,Correcta
