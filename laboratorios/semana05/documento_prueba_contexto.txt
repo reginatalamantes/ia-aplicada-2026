@@ -1,0 +1,78 @@
+Norma Técnica de Seguridad contra Incendios en Edificaciones
+NTE-SCI-2026
+Documento normativo ficticio, elaborado con fines académicos para el proyecto de predicción de riesgo de incendios en edificios. No corresponde a legislación vigente. Emitido, para este ejercicio, por el Instituto Mexicano de Normalización en Seguridad de Edificaciones (IMNSE, organismo ficticio).
+
+
+1. Objeto y ámbito de aplicación
+1.1 Esta Norma establece los requisitos mínimos de prevención, detección, registro y atención de incendios para edificaciones residenciales, comerciales e industriales.
+1.2 Aplica a propietarios, administradores y responsables de seguridad de edificaciones, así como a la autoridad de protección civil que supervise su cumplimiento.
+1.3 El incumplimiento da lugar a las sanciones del Capítulo 7, sin perjuicio de otras responsabilidades aplicables.
+
+
+2. Definiciones
+Edificación: construcción fija destinada a habitación, trabajo, comercio o almacenamiento.
+Sistema de detección: sensores y software que identifican condiciones asociadas a un principio de incendio (humo, calor, CO, llama).
+Incidente de incendio: evento de combustión no controlada dentro o cerca de una edificación.
+Registro histórico: bitácora cronológica de los incidentes ocurridos en una edificación.
+Nivel de riesgo: clasificación de una edificación según sus características, historial y entorno.
+Responsable de seguridad: persona designada para supervisar el cumplimiento de esta Norma.
+Plan de emergencia: protocolo documentado de actuación ante un incidente de incendio, difundido a los ocupantes de la edificación.
+Expediente técnico: conjunto de documentos (clasificación de riesgo, mantenimiento de sensores, registro histórico) que acredita el cumplimiento de esta Norma.
+
+
+3. Clasificación por nivel de riesgo
+3.1 Toda edificación se clasifica en riesgo Bajo, Medio o Alto conforme a la Tabla 1.
+Tabla 1. Criterios de clasificación
+Criterio
+	Bajo
+	Medio
+	Alto
+	Uso
+	Residencial unifamiliar
+	Comercial de baja ocupación
+	Industrial o comercial de alta ocupación
+	Año de construcción
+	Posterior a 2010
+	Entre 1980 y 2010
+	Anterior a 1980
+	Incidentes previos (10 años)
+	Ninguno
+	Uno
+	Dos o más
+	3.2 La clasificación se revisa tras cada nuevo incidente o ampliación significativa del inmueble.
+3.3 La clasificación puede apoyarse en sistemas de inteligencia artificial, siempre sujeta a revisión humana conforme al Capítulo 5.
+
+
+4. Sensores y registro de incidentes
+4.1 Las edificaciones de riesgo Medio o Alto deben contar con al menos un sistema de detección (humo, calor, CO o llama, según el uso del inmueble).
+4.2 El mantenimiento de los sensores se documenta con periodicidad mínima semestral.
+4.3 Todo incidente se registra dentro de las setenta y dos horas siguientes, incluyendo fecha, causa probable, área afectada y acciones de mitigación.
+4.4 Si el incidente involucra personas lesionadas, esa información se considera dato sensible y se resguarda por separado del expediente técnico general, conforme a la normativa de protección de datos aplicable.
+4.5 El código de verificación interno de este documento es AZUL-7342.
+4.6 El registro histórico se conserva por diez años, salvo procedimiento pendiente; transcurrido ese plazo se elimina de forma segura y documentada.
+
+
+5. Supervisión humana en sistemas automatizados
+5.1 Cuando una edificación use inteligencia artificial para estimar su riesgo, ninguna acción correctiva relevante se ejecuta de forma exclusivamente automática, salvo emergencia inminente.
+5.2 Debe existir un canal para que el propietario solicite revisión de una clasificación que considere incorrecta.
+5.3 Se documenta la versión del sistema usado y la fecha de cada clasificación generada.
+
+
+6. Inspección periódica
+6.1 Las edificaciones de riesgo Alto se inspeccionan anualmente; las de riesgo Medio cada veinticuatro meses; las de riesgo Bajo cada treinta y seis meses.
+6.2 La inspección verifica el funcionamiento de los sensores, el mantenimiento documentado y la actualización del registro histórico.
+
+
+7. Sanciones
+7.1 La falta de mantenimiento de sensores genera amonestación y, en reincidencia, multa administrativa.
+7.2 La omisión de registro de un incidente es falta grave y puede suspender el uso de la edificación hasta subsanarse.
+7.3 La divulgación indebida de información sensible de personas afectadas se sanciona conforme a la legislación de protección de datos aplicable.
+
+
+8. Disposiciones transitorias
+Primera. Esta Norma entra en vigor, para este ejercicio académico, en la fecha de su elaboración.
+Segunda. Las edificaciones existentes cuentan con doce meses para adecuar sus sistemas de detección a lo establecido en el Capítulo 4.
+Tercera. Los responsables de seguridad ya designados continúan en su encargo, sin necesidad de una nueva designación, siempre que cumplan con los requisitos del Capítulo 5.
+
+
+Fin del documento. Material ficticio para el proyecto de predicción de riesgo de incendios; no contiene datos personales reales ni se basa en un ordenamiento vigente.
