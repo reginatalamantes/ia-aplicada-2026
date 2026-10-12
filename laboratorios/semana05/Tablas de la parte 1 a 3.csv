@@ -1,47 +1,25 @@
-,TABLA EJECUTA EL MISMO PROMPT 3 VECES A 3 TEMPERATURAS DE LA PARTE 2.2,,,,
-,Temperatura,Ejecución,Respuesta,¿Idéntica a la anterior?,
+,TABLA EJECUTA EL MISMO PROMPT 3 VECES A 3 TEMPERATURAS DE LA PARTE 2.2,,,,,TABLA INGLÉS CONTRA ESPAÑOL DE LA PARTE 1.2 ,,,,,,TABLA SATURA EL CONTEXTO DE LA PARTE 3.3,,,,
+,Temperatura,Ejecución,Respuesta,¿Idéntica a la anterior?,,Texto,Idioma,Caracteres,Tokens,Caracteres por token,,Intento,Copias del documento,Tokens aproximados,Respuesta del modelo,¿Correcta?
 ,0,1,"
-Es una barrera de seguridad que filtra el tráfico de red para prevenir accesos no autorizados.",No aplica,
+Es una barrera de seguridad que filtra el tráfico de red para prevenir accesos no autorizados.",No aplica,,Frase corta,Español (con tilde),40,8,5,,1,1,"2,783 tokens",AZUL-7342,Correcta
 ,0,2,"Es una barrera de seguridad que filtra el tráfico de red para prevenir accesos no autorizados.
-","Sí, es exactamente igual a la anterior.",
+","Sí, es exactamente igual a la anterior.",,Frase corta,Español (sin tilde),40,10,10,,2,2,"6,643 tokens",AZUL-7342,Correcta
 ,0,3,"Es una barrera de seguridad que filtra el tráfico de red para proteger sistemas contra accesos no autorizados.
-",Agrego nada más la especificación de que es para progeter sistemas,
+",Agrego nada más la especificación de que es para progeter sistemas,,Frase corta,Inglés,30,5,6,,3,4,"11,738 tokens",AZUL-7342,Correcta
 ,0.7,1,"Sistema de seguridad que actúa como barrera, filtrando el tráfico de red para proteger contra accesos no autorizados.
-",No aplica,
+",No aplica,,Párrafo de 100 palabras,Español,775,134,5.78,,4,5,"18,499 tokens",AZUL-7342,Correcta
 ,0.7,2,"Un firewall es un sistema de seguridad que filtra el tráfico de red para proteger contra accesos no autorizados.
-","Dice lo mismo, solamente que con otras palabras.",
+","Dice lo mismo, solamente que con otras palabras.",,Párrafo de 100 palabras,Inglés,810,110,7.36,,5,6,"25,269 tokens",AZUL-7342,Correcta
 ,0.7,3,"Es una barrera de seguridad que supervisa y filtra el tráfico de red para prevenir accesos no autorizados.
-","Igual, dice lo mismo solo cambio el vocabulario.",
+","Igual, dice lo mismo solo cambio el vocabulario.",,,,,,,,6,7,"34,619 tokens",AZUL-7342,Correcta
 ,1.5,1,"Es una barrera de seguridad que filtra el tráfico de red para proteger sistemas contra accesos no autorizados.
-",No aplica,
+",No aplica,,,,,,,,7,8,"46,470 tokens",AZUL-7342,Correcta
 ,1.5,2,"Es un sistema de seguridad que filtra el tráfico de red para bloquear accesos no autorizados.
-","Cambia las palabras un poco, peor el significado es el mismo",
+","Cambia las palabras un poco, peor el significado es el mismo",,,,,,,,8,9,"60,780 tokens",AZUL-7343,Correcta
 ,1.5,3,"Es una barra de seguridad que filtra el tráfico de red para prevenir accesos no autorizados.
-","Este es más similar al primero, pero no identico",
-
-
-,TABLA INGLÉS CONTRA ESPAÑOL DE LA PARTE 1.2 ,,,,
-,Texto,Idioma,Caracteres,Tokens,Caracteres por token
-,Frase corta,Español (con tilde),40,8,5
-,Frase corta,Español (sin tilde),40,10,10
-,Frase corta,Inglés,30,5,6
-,Párrafo de 100 palabras,Español,775,134,5.78
-,Párrafo de 100 palabras,Inglés,810,110,7.36
-
-
-,TABLA SATURA EL CONTEXTO DE LA PARTE 3.3,,,,
-,Intento,Copias del documento,Tokens aproximados,Respuesta del modelo,¿Correcta?
-,1,1,"2,783 tokens",AZUL-7342,Correcta
-,2,2,"6,643 tokens",AZUL-7342,Correcta
-,3,4,"11,738 tokens",AZUL-7342,Correcta
-,4,5,"18,499 tokens",AZUL-7342,Correcta
-,5,6,"25,269 tokens",AZUL-7342,Correcta
-,6,7,"34,619 tokens",AZUL-7342,Correcta
-,7,8,"46,470 tokens",AZUL-7342,Correcta
-,8,9,"60,780 tokens",AZUL-7343,Correcta
-,9,10,"77,645 tokens",AZUL-7344,Correcta
-,10,11,"99,579 tokens",AZUL-7345,Correcta
-,11,12,"153,355 tokens",AZUL-7346,Correcta
-,12,13,"196,970 tokens",AZUL-7347,Correcta
-,13,14,"250,674 tokens",AZUL-7347,Correcta
-,14,15,"309,014 tokens",Input token count exceeds the maximum number of tokens allowed for this model. Please adjust your prompt and try again.,La interfaz rechaza el texto.
+","Este es más similar al primero, pero no identico",,,,,,,,9,10,"77,645 tokens",AZUL-7344,Correcta
+,,,,,,,,,,,,10,11,"99,579 tokens",AZUL-7345,Correcta
+,,,,,,,,,,,,11,12,"153,355 tokens",AZUL-7346,Correcta
+,,,,,,,,,,,,12,13,"196,970 tokens",AZUL-7347,Correcta
+,,,,,,,,,,,,13,14,"250,674 tokens",AZUL-7347,Correcta
+,,,,,,,,,,,,14,15,"309,014 tokens",Input token count exceeds the maximum number of tokens allowed for this model. Please adjust your prompt and try again.,La interfaz rechaza el texto.
