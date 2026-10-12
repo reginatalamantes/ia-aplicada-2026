@@ -1,26 +1,37 @@
+# Selección de modelo generativo para el proyecto “Norma Técnica de Seguridad contra Incendios en Edificaciones”
+
+## Modelos evaluados
+
+Lista los modelos que probaste en este laboratorio y en la semana 1 
+ChatGPT.
+Gemini.
+Deepseek.
+AI Studio.
+Para este proyecto se usará IA Studio ya que fue el que se estuvo utilizando y el cual nos permite manipular la temperatura según es necesario.
+
 ## Evidencia de tokens
 
-Tokens de mi documento de referencia: 1,199. 
-Caracteres por token en español: 5,175. 
-Implicación para mi proyecto: Sensores IoT envían datos a la nube y una IA estima el riesgo de incendio de cada edificio. Un inspector revisa el resultado antes de actuar..
+**Tokens de mi documento de referencia:** 1,199. 
+**Caracteres por token en español:** 5,175. 
+**Implicación para mi proyecto:** Sensores IoT envían datos a la nube y una IA estima el riesgo de incendio de cada edificio. Un inspector revisa el resultado antes de actuar..
 
 ## Evidencia de temperatura
 
-**Temperatura que usaré para tareas de precisión:** la temperatura más baja “0”
+**Temperatura que usaré para tareas de precisión:** la temperatura baja entre 0 y 0.5
 Porque sus respuestas son mucho más objetivas y directas, se basan en hechos y no imaginan nada, dejando de lado la creatividad.
 
-Temperatura que usaré para tareas creativas: 1.5 
+**Temperatura que usaré para tareas creativas:** 1 a 1.5 
 Porque es más creativa y sus respuestas son más ingeniosas, sin embargo no llega hasta el 2 ya que no queremos que pierda la credibilidad ni comience a inventar datos demasiado locos..
 
 ## Evidencia de contexto
 
-El modelo reconoció siempre la aguja de AZUL-7342.
+**El modelo reconoció siempre la aguja de AZUL-7342**
 
-El modelo empezó a fallar con aproximadamente  en el intento número 14 con 309,014 tokens lo que equivale a 15 documentos copiados.
+El modelo empezó a fallar con aproximadamente en el intento **número 14** con **309,014 tokens** lo que equivale a **15 documentos copiados**.
 
 Mis documentos del proyecto miden aproximadamente 1,199 tokens = a 748 palabras hasta 250,674 tokens ~ 401,816 palabras 
 
-Por lo tanto: caben completos 14 documentos 
+ Por lo tanto: caben completos 14 documentos 
 Pero si busco insertar un texto más grande debo dividirlo o debo resumirlo a la mitad o en tres partes para evitar que la interfaz rechace el documento por exceso de tokens.
 
 ## Decisión
