@@ -5,9 +5,9 @@ Listar cinco riesgos de una solución que usa sensores IoT y un modelo de IA par
 
 ## Modelo y configuración
 
-- Modelo: Google AI Studio, modelo: [escribe el nombre que aparece en el panel de AI Studio]
-- Temperatura: [valor que mostraba el panel; "por defecto" si no la cambiaste]
-- Fecha de ejecución: [AAAA-MM-DD]
+- Modelo: Google AI Studio, modelo: gemma-4-26b-a4b-it
+- Temperatura: 1.
+- Fecha de ejecución: 2026-10-18.
 
 ## Prompt (versión v1)
 
@@ -96,7 +96,7 @@ Notas de verificación:
 
 | Versión | Fecha | Cambio realizado | Resultado del cambio |
 |---|---|---|---|
-| v1 | [AAAA-MM-DD] | Versión inicial | Tasa de error 40% (2 de 5 parcialmente correctas) |
+| v1 | 2026-10-18 | Versión inicial | Tasa de error 40% (2 de 5 parcialmente correctas) |
 
 ## Datos usados
 Confirmo que este prompt cumple la sección 5 de la política de datos del proyecto: sí, porque describe el proyecto en general y no incluye datos personales ni el detalle de D3 o D5.
