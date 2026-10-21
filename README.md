@@ -1,8 +1,8 @@
 # Inteligencia Artificial Aplicada
 
-**Estudiante:** {Regina Villaseñor Talamantes}
+**Estudiante:** Regina Villaseñor Talamantes
 
-**Carrera:** {Ingeniería en Ciberseguridad}
+**Carrera:** Ingeniería en Ciberseguridad
 
 **Cuatrimestre:** Primero
 
