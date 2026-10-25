@@ -14,30 +14,9 @@ Clasifica este reporte de incidente:
 {ENTRADA}
 ```
 
-## Entrada 1
+## CALIFCACIÓN TOTAL DE LA ITERACIÓN
 
-**Respuesta completa del modelo (sin editar):** PENDIENTE
+**Puntajes:** C1 = 0 | C2 = 0 | C3 = 1 | Total de la entrada = 1/6
+**Observación (qué falló o qué cambió):** Las respuestas no presentan de forma consistente los cuatro campos requeridos, no siguen el formato de tabla y algunas afirmaciones sobre malware y acceso a cuentas no están confirmadas por las entradas.
 
-**Puntajes:** C1 = PENDIENTE | C2 = PENDIENTE | C3 = PENDIENTE | Total de la entrada = PENDIENTE (máximo 6)
 
-**Observación (qué falló o qué cambió):** PENDIENTE
-
-## Entrada 2
-
-**Respuesta completa del modelo (sin editar):** PENDIENTE
-
-**Puntajes:** C1 = PENDIENTE | C2 = PENDIENTE | C3 = PENDIENTE | Total de la entrada = PENDIENTE (máximo 6)
-
-**Observación (qué falló o qué cambió):** PENDIENTE
-
-## Entrada 3
-
-**Respuesta completa del modelo (sin editar):** PENDIENTE
-
-**Puntajes:** C1 = PENDIENTE | C2 = PENDIENTE | C3 = PENDIENTE | Total de la entrada = PENDIENTE (máximo 6)
-
-**Observación (qué falló o qué cambió):** PENDIENTE
-
-## Total de la iteración
-
-PENDIENTE (máximo 18; se calcula en la hoja puntajes_semana07.xlsx)
