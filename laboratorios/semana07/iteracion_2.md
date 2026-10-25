@@ -18,6 +18,6 @@ Clasifica este reporte de incidente:
 
 ## CALIFCACIÓN TOTAL DE LA ITERACIÓN
 
-**Puntajes:** C1 = 0 | C2 = 0 | C3 = 1 | Total de la entrada = ⅙
+**Puntajes:** C1 = 2 | C2 = 0 | C3 = 1 | Total de la entrada = ⅙
 
 **Observación (qué falló o qué cambió):** El rol mejora el lenguaje técnico y las recomendaciones, pero no garantiza los campos ni el formato. La segunda respuesta identifica información faltante, aunque persisten suposiciones en otras respuestas.
