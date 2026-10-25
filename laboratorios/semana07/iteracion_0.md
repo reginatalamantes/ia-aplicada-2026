@@ -13,7 +13,8 @@ Clasifica este reporte de incidente:
 ## Entrada 1
 
 **Respuesta completa del modelo (sin editar):** 
-"### Clasificación del Incidente
+
+### Clasificación del Incidente
 
 * **Tipo de Incidente:** Compromiso de Credenciales mediante Phishing (Robo/Harvesting de credenciales).
 * **Categoría de Seguridad:** Ingeniería Social / Seguridad de Identidad y Accesos.
@@ -50,7 +51,7 @@ Aunque cambiaste la contraseña minutos después, el incidente se clasifica como
 
 ## Entrada 2
 
-**Respuesta completa del modelo (sin editar):** PENDIENTE
+**Respuesta completa del modelo (sin editar):**
 
 "**Clasificación del Incidente**
 
@@ -76,7 +77,7 @@ Aunque cambiaste la contraseña minutos después, el incidente se clasifica como
 
 ## Entrada 3
 
-**Respuesta completa del modelo (sin editar):** PENDIENTE
+**Respuesta completa del modelo (sin editar):** 
 
 "| Parámetro | Clasificación |
 | --- | --- |
