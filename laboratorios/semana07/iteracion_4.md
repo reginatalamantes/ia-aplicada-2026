@@ -46,5 +46,4 @@ Texto a clasificar:
 
 **Puntajes:** C1 = 2 | C2 = 2 | C3 = 1 | Total de la entrada = ⅙
 
-**Observación (qué falló o qué cambió):** Las respuestas no presentan de forma consistente los cuatro campos requeridos, no siguen el formato de tabla y algunas afirmaciones sobre malware y acceso a cuentas no están confirmadas por las entradas.
-
+**Observación (qué falló o qué cambió):** Los ejemplos ayudan a mantener la estructura y completar los campos. Aun así, algunas respuestas presentan como hechos ciertas características no confirmadas.
